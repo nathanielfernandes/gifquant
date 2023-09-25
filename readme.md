@@ -60,3 +60,11 @@ gifquant images -p palettes/aap-64.gpl -o aap-64.gif
 ```
 
 <img src="./assets/aap-64.gif" width="512">
+
+## Installation
+
+```
+git clone https://github.com/nathanielfernandes/gifquant.git
+cd gifquant
+cargo install --path .
+```
